@@ -1,0 +1,19 @@
+The simple rules of the game Monopoly v1.0 are as follows-
+1) Each player starts out with Rs 5000k on a random location on the board
+that comprises 36 cells each marked with a number sequentially numbered.
+2) Each cell is coded with one of the 7 colours of the rainbow and each
+colour corresponds to open of these 4 operations - Loss, Gain, Court Case,
+Patents.
+3) For each turn of a contestant a dice is rolled and the contestant moves
+forward. What happens is determined by the color of the tile he lands on.
+4) For a loss or gain tile, the contestant loses or gains a random amount
+of value. This random value has resonable limits.
+5) If a contestant lands on a court case tile, he either sues some other
+contestant or is sued by the other contestant for some amount of money.
+There are three options open now - Pay the amount, deal with the suing
+contestant under the table, or go to Jail and lose some amount of money.
+6) The patents tile brings a special opportunity - to get hold of a patent.
+One can obtain a patent by correctly guessing the random number generated
+between 0 and 6 (both inclusive). Patents bring luck, that means profits
+are increased and losses are deecreased and in some rare cases converted
+into profits.
